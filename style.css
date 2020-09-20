@@ -1,0 +1,46 @@
+
+#city-input, #weather-output {
+    max-width: 500px;
+    margin: 0 auto;
+    font-family: Impact, 'Arial Narrow Bold';
+    font-style: italic;
+    color: black;
+}
+#city-input:hover{
+    color: blue;
+}
+
+.banner {
+    color: #FFD23F;
+    font-family: Impact,'Arial Narrow Bold'
+}
+html,body {
+    background-image: url(1a.jpg);
+}
+
+ .logo-image{
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-top: -6px;
+ }
+  .logo-image2{
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-top: -6px;
+}
+
+.card-body {
+    background-color: bisque;
+    font-family: 'Franklin Gothic low';
+    color: black;
+}
+.bannerp-3 {
+    color:lightblue;
+}
+
+
+
